@@ -68,7 +68,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "contacthub",
         "USER": "django_practice_user",
-        "PASSWORD": "",
+        "PASSWORD": "password123",
         "HOST": "localhost",
         "PORT": "5432",
     }
